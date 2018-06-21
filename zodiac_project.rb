@@ -10,6 +10,6 @@ def food
 
 puts "What is your favorite hobby?"
 puts "a. reading
-b. watch tv 
+b. drawing
 c. go to a party
 d. hang out with friends"

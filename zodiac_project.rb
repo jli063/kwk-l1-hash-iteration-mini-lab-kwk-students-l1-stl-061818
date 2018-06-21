@@ -11,5 +11,5 @@ def food
 puts "What is your favorite hobby?"
 puts "a. reading
 b. drawing
-c. go to a party
+c. playing sports
 d. hang out with friends"

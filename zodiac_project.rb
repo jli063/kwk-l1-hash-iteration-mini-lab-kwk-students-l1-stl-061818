@@ -5,7 +5,7 @@ def food
   b.fruit
   c.burger
   d.salad "
-  if 
+  food=gets.chomp
 
 
 puts "What is your favorite hobby?"

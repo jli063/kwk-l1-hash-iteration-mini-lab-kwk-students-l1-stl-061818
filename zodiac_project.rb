@@ -1,4 +1,3 @@
-answers=[]
   total=0
   
   puts "What is your favorite food?

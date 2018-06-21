@@ -1,4 +1,4 @@
-def food
+
   total=0
   puts "What is your favorite food?"
   puts "a.sushi  

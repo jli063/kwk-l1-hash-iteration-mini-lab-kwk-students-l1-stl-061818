@@ -1,7 +1,6 @@
 
   total=0
-  puts "What is your favorite food?"
-  puts "
+  puts "What is your favorite food?
   a.sushi  
   b.fruit
   c.burger
@@ -16,6 +15,7 @@
   elsif food=="d"
     total=total+4
   end
+  
  puts "What is your favorite hobby?"
  puts "
  a. reading

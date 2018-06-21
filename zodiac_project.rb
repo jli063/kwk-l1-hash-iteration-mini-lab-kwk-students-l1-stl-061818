@@ -12,4 +12,4 @@ puts "What is your favorite hobby?"
 puts "a. reading
 b. drawing
 c. playing sports
-d. hang out with friends"
+d. sightseeing"

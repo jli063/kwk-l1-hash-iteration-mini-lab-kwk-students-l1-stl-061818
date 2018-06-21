@@ -1,7 +1,8 @@
 
   total=0
   puts "What is your favorite food?"
-  puts "a.sushi  
+  puts "
+  a.sushi  
   b.fruit
   c.burger
   d.salad "

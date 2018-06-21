@@ -1,8 +1,12 @@
-puts "What is your favorite food?"
-puts "a.sushi  
-b.fruit
-c.burger
-d.salad "
+def food
+  total=0
+  puts "What is your favorite food?"
+  puts "a.sushi  
+  b.fruit
+  c.burger
+  d.salad "
+  if 
+
 
 puts "What do you like to do on a Friday night?"
 puts "a. do work

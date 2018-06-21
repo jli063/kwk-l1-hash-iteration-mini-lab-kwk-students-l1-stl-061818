@@ -1,4 +1,4 @@
-
+def food_choice
   total=0
   puts "What is your favorite food?"
   puts "
@@ -15,6 +15,9 @@
     total=total+3
   if food=="d"
     total=total+4
+end
+food_choice
+
 
 
 # puts "What is your favorite hobby?"

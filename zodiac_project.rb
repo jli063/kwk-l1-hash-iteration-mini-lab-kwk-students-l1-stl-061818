@@ -37,5 +37,3 @@
     answers.push("d")
     
   end
-
-puts ""

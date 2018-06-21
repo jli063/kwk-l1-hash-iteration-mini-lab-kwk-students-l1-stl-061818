@@ -1,2 +1,2 @@
 puts "What is your favorite food?"
-puts 
+puts "A. "

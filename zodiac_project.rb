@@ -8,8 +8,8 @@ def food
   food=gets.chomp
 
 
-puts "What is your favorite hobby?"
-puts "a. reading
-b. drawing
-c. playing sports
-d. sightseeing"
+# puts "What is your favorite hobby?"
+# puts "a. reading
+# b. drawing
+# c. playing sports
+# d. sightseeing"

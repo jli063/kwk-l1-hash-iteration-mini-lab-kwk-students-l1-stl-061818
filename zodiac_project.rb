@@ -1,5 +1,5 @@
 puts "What is your favorite food?"
 puts "A. 
 B.
-C.
+C.burger
 D."

@@ -5,4 +5,5 @@ C.burger
 D.salad "
 
 puts "What do you like to do on a Friday night?"
-puts ""
+puts "A. go to a party
+B. "

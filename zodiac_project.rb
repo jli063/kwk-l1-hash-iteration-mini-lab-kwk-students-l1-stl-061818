@@ -1,5 +1,5 @@
 puts "What is your favorite food?"
-puts "A.  
+puts "A.sushi  
 B.fruit salad
 C.burger
-D."
+D. "

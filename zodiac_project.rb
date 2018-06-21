@@ -7,4 +7,5 @@ d.salad "
 puts "What do you like to do on a Friday night?"
 puts "a. go to a party
 b. watch TV at home
-c.  "
+c. go to a party
+d. "

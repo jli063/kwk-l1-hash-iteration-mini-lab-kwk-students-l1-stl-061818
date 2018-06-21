@@ -18,10 +18,7 @@ answers=[]
   elsif food=="d"
     answers.push("d")
     
-  
-    
   end
-  
   
  puts "What is your favorite hobby?
  a. reading

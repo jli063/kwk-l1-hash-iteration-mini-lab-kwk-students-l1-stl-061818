@@ -1,4 +1,4 @@
-def food_choice
+
   total=0
   puts "What is your favorite food?"
   puts "
@@ -16,10 +16,6 @@ def food_choice
   elsif food=="d"
     total=total+4
   end
-end
-food_choice
-
-def hobby_choice
  puts "What is your favorite hobby?"
  puts "
  a. reading
@@ -36,5 +32,3 @@ def hobby_choice
  elsif hobby=="d"
     total=total+4
   end
-end
-hobby_choice

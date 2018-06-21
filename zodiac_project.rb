@@ -10,13 +10,15 @@
   food=gets.chomp
   
   if food=="a"
-    total=total+1
+    answers.push("a")
   elsif food=="b"
-    total=total+2
+    answers.push("b")
   elsif food=="c"
-    total=total+3
+    answers.push("c")
   elsif food=="d"
-    total=total+4
+    answers.push("d")
+    
+  
     
   end
   
@@ -30,12 +32,12 @@
  hobby=gets.chomp
  
  if hobby=="a"
-   total=total+1
+    answers.push("a")
  elsif hobby=="b"
-    total=total+2
+    answers.push("b")
  elsif hobby=="c"
-    total=total+3
+    answers.push("c")
  elsif hobby=="d"
-    total=total+4
+    answers.push("d")
     
   end

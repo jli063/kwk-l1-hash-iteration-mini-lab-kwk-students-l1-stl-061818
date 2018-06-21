@@ -3,6 +3,7 @@ puts "a.sushi
 b.fruit
 c.burger
 d.salad "
+break
 
 puts "What do you like to do on a Friday night?"
 puts "a. do work

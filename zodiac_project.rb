@@ -9,12 +9,13 @@ def food_choice
   food=gets.chomp
   if food=="a"
     total=total+1
-  if food=="b"
+  elsif food=="b"
     total=total+2
-  if food=="c"
+  elsif food=="c"
     total=total+3
-  if food=="d"
+  elsif food=="d"
     total=total+4
+  end
 end
 food_choice
 
